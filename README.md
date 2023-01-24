@@ -1,2 +1,2 @@
 # razorpaydemo
-Razor Pay demo Interation
+React Native Razor Pay Integration Demo
